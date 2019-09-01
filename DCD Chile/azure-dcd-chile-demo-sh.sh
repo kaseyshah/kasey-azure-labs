@@ -1,4 +1,4 @@
-# Kasey's Demo at DCD Chile Keynote presentation
+# Kasey's Demo at DCD Chile Keynote presentation demo
 # Building data center network on Microsoft Azure
 # Reauirements below: 
 # (1) Build 4 data centres across the world each with 60K hosts capacity
